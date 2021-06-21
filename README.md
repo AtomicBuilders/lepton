@@ -1,0 +1,2 @@
+# lepton
+Fundamental JavaScript template
