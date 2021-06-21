@@ -19,7 +19,7 @@
   },
 
   "rules": {
-    "comma-dangle":["error","always-multiline"],
+    "comma-dangle": ["error", "always-multiline"],
     "prettier/prettier": [
       "error",
       {
