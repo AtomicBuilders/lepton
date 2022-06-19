@@ -1,8 +1,8 @@
 # lepton
 
-Fundamental JavaScript template
+Fundamental JavaScript boilerplate
 
-> Clone, fork or use as a template repository for creating your next **JavaScript** project.
+> Clone, fork or use as a template repository for creating your next **Node** project.
 
 ```terminal
 git clone https://github.com/AtomicBuilders/lepton/ your-project
@@ -14,7 +14,7 @@ npm install
 
 Avoid start from an empty repository.
 
-Have a template to create _TypeScript_ repositories with a project already configurated.
+Have a template to create _Node_ repositories with a project already configured.
 
 A **boilerplate** ready to apply clean code techniques and testing.
 
@@ -111,25 +111,6 @@ Use GitHub issues for tracking _User Stories_ and _developer tasks_.
 
 > Use this snippets `.vscode\ts-snippets.json` as an inspiration to create yours
 
-### 🧩 VS Code Extensions
-
-Recommendations
-
-- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
-- [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
-- [Editor Config](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
-- [EsLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-- [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
-- [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
-- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-- [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
-- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
-- [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
-- [Prettier](https://github.com/prettier/prettier-vscode)
-- [Spell Right](https://marketplace.visualstudio.com/items?itemName=ban.spellright)
-- [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
-
 ### 👽 Extra
 
 #### 🔧 Settings and Snippets
@@ -152,12 +133,22 @@ TOP 10
 - `CTRL+K S` : save al files
 - `ALT+up|dawn` : move line
 
-## 👨 Created by Alberto Basalo
-
-[@albertobasalo](https://twitter.com/albertobasalo)
-
-## 👨 Created by Alberto Basalo
-
-[@albertobasalo](https://twitter.com/albertobasalo)
-
 ### There is a [TypeScript version](https://github.com/AtomicBuilders/quark) of this project
+
+## 🛠 VS Code
+
+### 🧩 Extensions recommendations
+
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+- [EsLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+- [Prettier](https://github.com/prettier/prettier-vscode)
+- [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+
+---
+
+<footer>
+  <h3>By Alberto Basalo</h3>
+  <p>
+   <a href="https://twitter.com/albertobasalo" target="blank"><img src="https://img.shields.io/twitter/follow/albertobasalo?logo=twitter&style=for-the-badge" alt="albertobasalo" /></a>
